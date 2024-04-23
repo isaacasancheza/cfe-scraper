@@ -1,0 +1,1105 @@
+{
+    "year": 2017,
+    "summers": [
+        {
+            "start": 2,
+            "months": [
+                {
+                    "month": 1,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 2,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 3,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 4,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 5,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 6,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 7,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 8,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 9,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 10,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 11,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 12,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start": 3,
+            "months": [
+                {
+                    "month": 1,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 2,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 3,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 4,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 5,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 6,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 7,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 8,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 9,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 10,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 11,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 12,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start": 4,
+            "months": [
+                {
+                    "month": 1,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 2,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 3,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 4,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 5,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 6,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 7,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 8,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 9,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 10,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 11,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 12,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start": 5,
+            "months": [
+                {
+                    "month": 1,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 2,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 3,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 4,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 5,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 6,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 7,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 8,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 9,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 10,
+                    "rates": [
+                        {
+                            "kWh": 150,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.697"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio bajo",
+                            "price": "0.822"
+                        },
+                        {
+                            "kWh": 150,
+                            "name": "Consumo intermedio alto",
+                            "price": "1.050"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 11,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                },
+                {
+                    "month": 12,
+                    "rates": [
+                        {
+                            "kWh": 75,
+                            "name": "Consumo b\u00e1sico",
+                            "price": "0.793"
+                        },
+                        {
+                            "kWh": 100,
+                            "name": "Consumo intermedio",
+                            "price": "0.956"
+                        },
+                        {
+                            "kWh": Infinity,
+                            "name": "Consumo excedente",
+                            "price": "2.802"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
