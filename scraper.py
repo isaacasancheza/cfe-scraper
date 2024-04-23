@@ -54,7 +54,7 @@ class Scraper:
         try:
             self._driver.get(self._url)
             self._select_year(year)
-            for summer_start in range(2, 5):
+            for summer_start in range(2, 6):
                 self._select_summer(summer_start)
                 summer: Summer = {
                     'start': summer_start,
