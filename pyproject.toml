@@ -1,0 +1,13 @@
+[project]
+name = "cfe-scraper"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "selenium>=4.27.1",
+]
+
+[dependency-groups]
+dev = [
+    "mypy>=1.14.0",
+    "ruff>=0.8.4",
+]
